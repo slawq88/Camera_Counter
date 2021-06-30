@@ -1,8 +1,8 @@
 # Camera_Counter
 Język Python 3.x
-
 Licznik uzyskanych punktów przy wykorzystaniu kamery (video)
-    I. na tarczach sportowych(okręgi, zdjęcia zamiast wideo):
+
+    I. na tarczach sportowych(okręgi, zdjęcia zamiast wideo)
         a. Znalezienie pól punktowych (okręgi? pierścienie?)
         b.
             1. Znalezienie nowej przestrzeliny
